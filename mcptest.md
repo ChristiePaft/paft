@@ -1,1 +1,0 @@
-Add chat test scenario
